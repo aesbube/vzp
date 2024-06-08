@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\f1race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\f1race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\f1race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\f1race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\lap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\lap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|c:\\users\\pc\\desktop\\vizuelno\\f1race\\f1race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551C862-7128-4D6D-837E-527BB2B1E99F}|f1Race\\f1Race.csproj|solutionrelative:f1race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\Program.cs",
+              "RelativeDocumentMoniker": "f1Race\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\Program.cs",
+              "RelativeToolTip": "f1Race\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:56:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDriver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\AddDriver.cs",
+              "RelativeDocumentMoniker": "f1Race\\AddDriver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\AddDriver.cs",
+              "RelativeToolTip": "f1Race\\AddDriver.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:52:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "f1Race.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\f1Race.cs",
+              "RelativeDocumentMoniker": "f1Race\\f1Race.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\f1Race.cs",
+              "RelativeToolTip": "f1Race\\f1Race.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwHUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:47:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lap.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\Lap.cs",
+              "RelativeDocumentMoniker": "f1Race\\Lap.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\Lap.cs",
+              "RelativeToolTip": "f1Race\\Lap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:32:16.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\Driver.cs",
+              "RelativeDocumentMoniker": "f1Race\\Driver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\Driver.cs",
+              "RelativeToolTip": "f1Race\\Driver.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:30:33.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddDriver.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\AddDriver.cs",
+              "RelativeDocumentMoniker": "f1Race\\AddDriver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\AddDriver.cs [Design]",
+              "RelativeToolTip": "f1Race\\AddDriver.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:22:28.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "f1Race.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\f1Race.cs",
+              "RelativeDocumentMoniker": "f1Race\\f1Race.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\f1Race\\f1Race\\f1Race.cs [Design]",
+              "RelativeToolTip": "f1Race\\f1Race.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:10:35.059Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

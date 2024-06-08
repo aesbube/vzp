@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pc\\desktop\\vizuelno\\conference\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\windowsformsapp1\\addpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\windowsformsapp1\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\windowsformsapp1\\addpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\windowsformsapp1\\addpaper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B942BDA9-8113-409B-B5B8-3451B1D5FEDF}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addpaper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPaper.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\AddPaper.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddPaper.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\AddPaper.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddPaper.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAawDwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:35:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPaper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\AddPaper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddPaper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\AddPaper.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddPaper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:35:01.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\Paper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Paper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\Paper.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Paper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:04:03.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAIA1wCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:01:38.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPaper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\AddPaper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddPaper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\AddPaper.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\AddPaper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:50:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Conference\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:41:40.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

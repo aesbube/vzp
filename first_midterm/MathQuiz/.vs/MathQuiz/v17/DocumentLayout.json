@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|c:\\users\\pc\\desktop\\vizuelno\\mathquiz\\mathquiz\\mathquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\mathquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\mathquiz\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\mathquiz\\mathquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\mathquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\mathquiz\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\mathquiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\mathquiz\\mathquiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1CDCAB-00D1-41A0-AB8E-5660B9EE5D97}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\mathquiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MathQuiz.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\MathQuiz.Designer.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\MathQuiz.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\MathQuiz.Designer.cs",
+              "RelativeToolTip": "MathQuiz\\MathQuiz.Designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAawEgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:03:10.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\Question.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\Question.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\Question.cs",
+              "RelativeToolTip": "MathQuiz\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:33:16.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\QuestionForm.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\QuestionForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\QuestionForm.cs",
+              "RelativeToolTip": "MathQuiz\\QuestionForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:27:36.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\MathQuiz.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\MathQuiz.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\MathQuiz.cs",
+              "RelativeToolTip": "MathQuiz\\MathQuiz.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:26:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\QuestionForm.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\QuestionForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\QuestionForm.cs [Design]",
+              "RelativeToolTip": "MathQuiz\\QuestionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:19:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\MathQuiz.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\MathQuiz.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\MathQuiz\\MathQuiz\\MathQuiz.cs [Design]",
+              "RelativeToolTip": "MathQuiz\\MathQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:11:06.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

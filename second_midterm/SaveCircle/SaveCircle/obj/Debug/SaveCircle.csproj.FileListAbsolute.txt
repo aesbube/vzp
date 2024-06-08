@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\bin\Debug\SaveCircle.exe.config
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\bin\Debug\SaveCircle.exe
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\bin\Debug\SaveCircle.pdb
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.Form1.resources
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.exe
+C:\Users\PC\Desktop\vizuelno\SaveCircle\SaveCircle\obj\Debug\SaveCircle.pdb

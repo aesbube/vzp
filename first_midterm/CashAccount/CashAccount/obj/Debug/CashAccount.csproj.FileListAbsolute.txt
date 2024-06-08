@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\bin\Debug\CashAccount.exe.config
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\bin\Debug\CashAccount.exe
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\bin\Debug\CashAccount.pdb
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.CashRegister.resources
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.NewProduct.resources
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.exe
+C:\Users\PC\Desktop\vizuelno\CashAccount\CashAccount\obj\Debug\CashAccount.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\bin\Debug\CircleEater.exe.config
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\bin\Debug\CircleEater.exe
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\bin\Debug\CircleEater.pdb
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.Form1.resources
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.exe
+C:\Users\PC\Desktop\vizuelno\CircleEater\CircleEater\obj\Debug\CircleEater.pdb

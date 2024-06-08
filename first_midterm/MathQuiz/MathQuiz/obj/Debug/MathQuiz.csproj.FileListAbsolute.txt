@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.MathQuiz.resources
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.QuestionForm.resources
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\PC\Desktop\vizuelno\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

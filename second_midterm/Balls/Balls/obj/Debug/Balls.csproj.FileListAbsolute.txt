@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\bin\Debug\Balls.exe.config
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\bin\Debug\Balls.exe
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\bin\Debug\Balls.pdb
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.Form1.resources
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.exe
+C:\Users\PC\Desktop\vizuelno\Balls\Balls\obj\Debug\Balls.pdb

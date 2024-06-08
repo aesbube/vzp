@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\bin\Debug\CirclePulse.exe.config
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\bin\Debug\CirclePulse.exe
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\bin\Debug\CirclePulse.pdb
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.Form1.resources
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.exe
+C:\Users\PC\Desktop\vizuelno\CirclePulse\CirclePulse\obj\Debug\CirclePulse.pdb

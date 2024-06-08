@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\polygons\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|solutionrelative:polygons\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\polygons\\draw polygons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|solutionrelative:polygons\\draw polygons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\polygons\\draw polygons.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|solutionrelative:polygons\\draw polygons.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\polygons\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|solutionrelative:polygons\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|c:\\users\\pc\\desktop\\vizuelno\\polygons\\polygons\\draw polygons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B428D515-11F1-47F6-B732-95521B1EE242}|Polygons\\Polygons.csproj|solutionrelative:polygons\\draw polygons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Draw Polygons.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Draw Polygons.Designer.cs",
+              "RelativeDocumentMoniker": "Polygons\\Draw Polygons.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Draw Polygons.Designer.cs",
+              "RelativeToolTip": "Polygons\\Draw Polygons.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:20:28.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Draw Polygons.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Draw Polygons.cs",
+              "RelativeDocumentMoniker": "Polygons\\Draw Polygons.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Draw Polygons.cs",
+              "RelativeToolTip": "Polygons\\Draw Polygons.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:19:16.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Scene.cs",
+              "RelativeDocumentMoniker": "Polygons\\Scene.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Scene.cs",
+              "RelativeToolTip": "Polygons\\Scene.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:13:14.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Polygon.cs",
+              "RelativeDocumentMoniker": "Polygons\\Polygon.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Polygon.cs",
+              "RelativeToolTip": "Polygons\\Polygon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:59:39.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Draw Polygons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Draw Polygons.cs",
+              "RelativeDocumentMoniker": "Polygons\\Draw Polygons.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\Polygons\\Polygons\\Draw Polygons.cs [Design]",
+              "RelativeToolTip": "Polygons\\Draw Polygons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:54:33.201Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashAccount\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\CashRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashAccount\\CashRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\NewProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashAccount\\NewProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\NewProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashAccount\\NewProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\Product_quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashAccount\\Product_quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\CashRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashAccount\\CashRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\NewProduct.cs",
+              "RelativeDocumentMoniker": "CashAccount\\NewProduct.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\NewProduct.cs [Design]",
+              "RelativeToolTip": "CashAccount\\NewProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:18:14.033Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewProduct.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\NewProduct.cs",
+              "RelativeDocumentMoniker": "CashAccount\\NewProduct.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\NewProduct.cs",
+              "RelativeToolTip": "CashAccount\\NewProduct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:09:20.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashRegister.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\CashRegister.cs",
+              "RelativeDocumentMoniker": "CashAccount\\CashRegister.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\CashRegister.cs",
+              "RelativeToolTip": "CashAccount\\CashRegister.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:03:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\Product.cs",
+              "RelativeDocumentMoniker": "CashAccount\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\Product.cs",
+              "RelativeToolTip": "CashAccount\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:33:00.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product_quantity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\Product_quantity.cs",
+              "RelativeDocumentMoniker": "CashAccount\\Product_quantity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\Product_quantity.cs",
+              "RelativeToolTip": "CashAccount\\Product_quantity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:43:36.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CashRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\CashRegister.cs",
+              "RelativeDocumentMoniker": "CashAccount\\CashRegister.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\vizuelno\\CashAccount\\CashAccount\\CashRegister.cs [Design]",
+              "RelativeToolTip": "CashAccount\\CashRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:05:20.781Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

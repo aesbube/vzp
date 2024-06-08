@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.AddDriver.resources
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.f1Race.resources
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.Properties.Resources.resources
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\bin\Debug\f1Race.exe.config
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\bin\Debug\f1Race.exe
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\bin\Debug\f1Race.pdb
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.exe
+C:\Users\PC\Desktop\vizuelno\f1Race\f1Race\obj\Debug\f1Race.pdb
